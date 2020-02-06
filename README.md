@@ -9,7 +9,7 @@ main screan you can look four function , 1. gamestart   2. rank ( not implemente
 
 go in gamestart, you can input your name.
 next mode select
-        =>my Linus tetris have two mode (newbie = easy , expert)
+=>my Linus tetris have two mode (newbie = easy , expert)
 how different easy mode & expert??
 easy mode : you can display mirror block. this block is already to show block position. and see a next block 
 
